@@ -1,0 +1,24 @@
+{
+  "name": "log-mutate",
+  "version": "1.0.0",
+  "description": "A basic log mutator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewzhaocc/log-mutate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/matthewzhaocc/log-mutate/issues"
+  },
+  "homepage": "https://github.com/matthewzhaocc/log-mutate#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.8.4"
+  }
+}
